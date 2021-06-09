@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ViewPagerExample</string>
+
+    <string name="nameApp">NxtGEvents</string>
+    <string name="noticeString">Noticias</string>
+    <string name="eventString">Eventos</string>
+    <string name="tourmentString">Torneos</string>
+    <string name="nameAcount">Nick del jugador</string>
+    <string name="localizacionString">Localización </string>
+    <string name="urlStreamingString">URL Streaming </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="inscribeme">¡INSCRIBEME!</string>
+    <string name="borrame">No Puedo Ir</string>
+    <string name="actualizarDatos">Actualizar Datos</string>
+    <string name="cambiarFoto">Cambiar Foto</string>
+    <string name="plataformas">Plataformas De Juegos</string>
+    <string name="cerrarSesion">Salir de mi cuenta</string>
+
+
+</resources>
